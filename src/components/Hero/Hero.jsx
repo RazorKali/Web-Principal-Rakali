@@ -1,3 +1,4 @@
+import React from 'react'
 import { ArrowRight, Boxes, Code2, Network, Server } from 'lucide-react'
 
 export default function Hero() {

@@ -1,3 +1,4 @@
+import React from 'react'
 import { company } from '../../config/company'
 import { navigationLinks } from '../../data/navigation'
 

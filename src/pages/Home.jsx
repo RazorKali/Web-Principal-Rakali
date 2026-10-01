@@ -1,3 +1,4 @@
+import React from 'react'
 import About from '../components/About/About'
 import Contact from '../components/Contact/Contact'
 import CTA from '../components/CTA/CTA'

@@ -1,3 +1,4 @@
+import React from 'react'
 import { Handshake, Layers3, SlidersHorizontal } from 'lucide-react'
 
 const pillars = [

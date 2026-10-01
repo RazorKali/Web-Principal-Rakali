@@ -1,5 +1,5 @@
 import { Mail, MapPin, Phone, Send, Smartphone } from 'lucide-react'
-import { useState } from 'react'
+import React, { useState } from 'react'
 import { company, getWhatsAppUrl } from '../../config/company'
 import { serviceOptions } from '../../data/contactOptions'
 

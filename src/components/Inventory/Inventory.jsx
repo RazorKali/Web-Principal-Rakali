@@ -1,3 +1,4 @@
+import React from 'react'
 import { ArrowRight, BarChart3, CheckCircle2, MonitorSmartphone } from 'lucide-react'
 import { inventoryFeatures } from '../../data/services'
 
